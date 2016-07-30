@@ -1,4 +1,4 @@
-# python
-Test repository for python projects
+# Big Data S3 Log Delivery (Python) Project
+The repository for BigData S3 Log Delivery (Python) Project
 
-On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+Contributor: Nugget Tran c/o James Chiu
